@@ -1,0 +1,6 @@
+*.csv
+*.tsv
+*.zip
+*.tar.gz
+*.tgz
+/Graph/GCN/cora/
