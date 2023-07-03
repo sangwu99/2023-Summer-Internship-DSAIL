@@ -4,4 +4,5 @@
 *.tar.gz
 *.tgz
 /Graph/GCN/cora/
+/Graph/DeepWalk/BlogCatalog-dataset/
 /Recsys/ml-100k/
