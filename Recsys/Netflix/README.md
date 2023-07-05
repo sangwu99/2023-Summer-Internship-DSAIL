@@ -1,6 +1,7 @@
 
 ## Paper 
 [Matrix Factorization Techniques for Recommender Systems](https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf)
+
 [Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model](https://dl.acm.org/doi/10.1145/1401890.1401944)
 
 ## Review 
@@ -26,3 +27,5 @@ https://velog.io/@tobigs-recsys/Paper-Review-KDD-2008-Factorization-meets-the-ne
 https://sukwonyun.github.io/blog/2021/Netflix2/
 
 https://steady-programming.tistory.com/44
+
+https://www.shalomeir.com/2014/11/netflix-prize-1/
