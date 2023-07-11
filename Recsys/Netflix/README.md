@@ -12,6 +12,10 @@
 ## Implementation 
 [Implementation](./Netflix.ipynb)
 
+```python
+python main.py --preprocess True 
+```
+
 ## Reference 
 
 https://greeksharifa.github.io/machine_learning/2019/12/20/Matrix-Factorization/
