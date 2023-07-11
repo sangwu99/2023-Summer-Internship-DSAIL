@@ -7,3 +7,5 @@
 /Graph/DeepWalk/BlogCatalog-dataset/
 /Recsys/ml-100k/
 /Recsys/Netflix/archive-2/
+*.pyc
+__pycache__/
