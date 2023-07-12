@@ -1,6 +1,5 @@
 import argparse 
 import os 
-from sklearn.model_selection import train_test_split
 import numpy as np 
 import pandas as pd
 
@@ -10,30 +9,21 @@ from scipy.sparse import csr_matrix
 
 from dataset import Netflix
 from model import NeighborhoodModel, AsymmetricSVD, SVDPlusPlus, IntergratedModel
-from utils import preprocess, RMSELoss
+from utils import preprocess, RMSELoss, make_samples
 from trainer import train, evaluate
 
 
 def main(args):
     if args.preprocess == True:
         preprocess()
-    df = pd.read_csv(args.dpath)
-    sample_df = df.loc[(df['Cust_ID'] < args.user) & (df['Movie_Id'] < args.item)]
         
-    sample_df_user2idx = {user:idx for idx, user in enumerate(sample_df['Cust_ID'].unique())} 
-    sample_df_item2idx = {item:idx for idx, item in enumerate(sample_df['Movie_Id'].unique())}
-    sample_df['Cust_ID'] = sample_df['Cust_ID'].map(sample_df_user2idx)
-    sample_df['Movie_Id'] = sample_df['Movie_Id'].map(sample_df_item2idx)
-    sample_df['Timestamp'] = pd.to_datetime(sample_df['Timestamp'])
-    bins = pd.date_range(start = '1999-11-01', end = '2005-12-31', freq = 'M')
-    sample_df.loc[:,'bins'] = pd.cut(sample_df['Timestamp'], bins=bins, labels=False)
-
-    train_df, test_df = train_test_split(sample_df, test_size = 0.2, random_state = 42)
-    train_df = train_df[['Cust_ID','Movie_Id','Rating']]
-    test_df = test_df[['Cust_ID','Movie_Id','Rating']]
+    df = pd.read_csv(args.dpath)
     
+    train_df, test_df,  sample_df_user2idx, sample_df_item2idx = make_samples(df, args)
+     
     train_dataset = Netflix(train_df)
     test_dataset = Netflix(test_df)
+    
     train_dataloader = DataLoader(train_dataset, batch_size=1, shuffle=True)
     test_dataloader = DataLoader(test_dataset, batch_size=1, shuffle=True)
     

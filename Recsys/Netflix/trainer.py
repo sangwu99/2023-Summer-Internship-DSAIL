@@ -62,6 +62,8 @@ def temporal_train(model, train_loader, criterion, optimizer, device):
     
     return total_loss
 
+
+
 def temporal_evaluate(model, test_loader, criterion, optimizer, device):
     model.eval()
     total_loss = 0

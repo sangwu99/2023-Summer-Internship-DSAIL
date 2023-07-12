@@ -16,6 +16,8 @@
 python main.py --preprocess True 
 ```
 
+![result](./img/result.png)
+
 ## Reference 
 
 https://greeksharifa.github.io/machine_learning/2019/12/20/Matrix-Factorization/
