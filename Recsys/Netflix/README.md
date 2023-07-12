@@ -9,6 +9,8 @@
 
 [Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model](https://velog.io/@sangwu99/Factorization-Meets-the-Neighborhood-a-Multifaceted-Collaborative-Filtering-Model-KDD-2008)
 
+[Slides](.img/Netflix.pdf)
+
 ## Implementation 
 [Implementation](./Netflix.ipynb)
 
@@ -17,21 +19,3 @@ python main.py --preprocess True
 ```
 
 ![result](./img/result.png)
-
-## Reference 
-
-https://greeksharifa.github.io/machine_learning/2019/12/20/Matrix-Factorization/
-
-https://soobarkbar.tistory.com/105
-
-https://supkoon.tistory.com/30
-
-https://velog.io/@tobigs-recsys/MATRIX-FACTORIZATION-TECHNIQUES-FOR-RECOMMENDER-SYSTEM
-
-https://velog.io/@tobigs-recsys/Paper-Review-KDD-2008-Factorization-meets-the-neighborhood-a-multifaceted-collaborative-filtering-model
-
-https://sukwonyun.github.io/blog/2021/Netflix2/
-
-https://steady-programming.tistory.com/44
-
-https://www.shalomeir.com/2014/11/netflix-prize-1/
