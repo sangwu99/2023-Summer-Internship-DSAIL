@@ -9,7 +9,7 @@
 
 [Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model](https://velog.io/@sangwu99/Factorization-Meets-the-Neighborhood-a-Multifaceted-Collaborative-Filtering-Model-KDD-2008)
 
-[Slides](.img/Netflix.pdf)
+[Slides](./img/Netflix.pdf)
 
 ## Implementation 
 [Implementation](./Netflix.ipynb)
