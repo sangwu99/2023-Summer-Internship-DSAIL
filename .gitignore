@@ -8,4 +8,5 @@
 /Recsys/ml-100k/
 /Recsys/Netflix/archive-2/
 *.pyc
+*.txt
 __pycache__/
