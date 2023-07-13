@@ -3,6 +3,9 @@
 ## Paper 
 [Translating Embeddings for Modeling Multi-relational Data](https://papers.nips.cc/paper_files/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf)
 
+## Review
+[리뷰](https://velog.io/@sangwu99/Translating-Embeddings-for-Modeling-Multi-relational-Data-2013-NIPS)
+
 ## Implementation 
     
 ```
