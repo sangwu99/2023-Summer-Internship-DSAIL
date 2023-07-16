@@ -1,7 +1,7 @@
 # 2023-Summer-Internship-DSAIL
 
-| Year | Paper | Short | Presenter | slides |
-| :---: | --- | --- | --- | --- |
+| Year | Paper | Short |
+| :---: | --- | --- |
 | 2016 | [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)| GCN |
 | 2014 | [DeepWalk: Online Learning of Social Representations](https://arxiv.org/abs/1403.6652)| Deepwalk |
 | 2008 | [Probabilistic Matrix Factorization](https://papers.nips.cc/paper/2007/file/d7322ed717dedf1eb4e6e52a37ea7bcd-Paper.pdf)| PMF |
