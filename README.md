@@ -9,7 +9,7 @@
 | 2008 | [Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model](https://dl.acm.org/doi/10.1145/1401890.1401944) | Netflix |
 | 2008 | [Collaborative Filtering for Implicit Feedback Datasets](http://yifanhu.net/PUB/cf.pdf)| OCCF |
 | 2012 | [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf)| BPR |
-| 2013 | [Translating Embeddings for Modeling Multi-relational Data](https://papers.nips.cc/paper/2013/hash/1cecc7a77928ca8133fa24680a88d2f9-Abstract.html)|
+| 2013 | [Translating Embeddings for Modeling Multi-relational Data](https://papers.nips.cc/paper/2013/hash/1cecc7a77928ca8133fa24680a88d2f9-Abstract.html)| TransE |
 | 2017 | [Collaborative Metric Learning](https://www.cs.cornell.edu/~ylongqi/paper/HsiehYCLBE17.pdf)| CML |
 | 2010 | [Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)| FM |
 | 2016 | [Wide & Deep Learning for Recommender Systems](https://arxiv.org/abs/1606.07792)| WD |
