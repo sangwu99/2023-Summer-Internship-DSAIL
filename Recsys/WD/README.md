@@ -13,4 +13,5 @@ python main.py --factor_dim 16 --layer_num 3 --hidden_dim [8, 4, 2] --output_dim
 ```
 
 ## Result
-![Result](../../img/WD.png)
+![Train Result](../../img/WDtrain.png)
+![Test Result](../../img/WDTest.png)
