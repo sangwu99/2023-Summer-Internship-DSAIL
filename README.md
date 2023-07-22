@@ -13,7 +13,7 @@
 | 2017 | [Collaborative Metric Learning](https://www.cs.cornell.edu/~ylongqi/paper/HsiehYCLBE17.pdf)| CML | | [Review](https://velog.io/@sangwu99/Collaborative-Metric-Learning-WWW-2017) |
 | 2010 | [Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)| FM | [Implementation](./Recsys/FM/) | [Review](https://velog.io/@sangwu99/Factorization-Machine-IEEE-2010) |
 | 2016 | [Wide & Deep Learning for Recommender Systems](https://arxiv.org/abs/1606.07792)| WD | [Implementation](./Recsys/WD/) | [Review](https://velog.io/@sangwu99/Wide-Deep-Learning-for-Recommender-Systems-2016-DLRS)
-| 2008 | [SoRec: Social Recommendation Using Probabilistic Matrix Factorization](https://dl.acm.org/doi/10.1145/1458082.1458205)| SoRec |
+| 2008 | [SoRec: Social Recommendation Using Probabilistic Matrix Factorization](https://dl.acm.org/doi/10.1145/1458082.1458205)| SoRec | [Implementation](./Recsys/SoRec/) | |
 | 2011 | [Recommender Systems with Social Regularization](https://dennyzhou.github.io/papers/RSR.pdf)| SoReg |
 | 2017 | [metapath2vec : Scalable Representation Learning for Heterogeneous Networks](https://dl.acm.org/doi/10.1145/3097983.3098036)| Metapath2Vec |
 | 2018 | [Deep Graph Infomax](https://arxiv.org/abs/1809.10341)| DGI |
