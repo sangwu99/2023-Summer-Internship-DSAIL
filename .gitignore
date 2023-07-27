@@ -3,6 +3,7 @@
 *.zip
 *.tar.gz
 *.tgz
+*.pt
 /Graph/GCN/cora/
 /Graph/DeepWalk/BlogCatalog-dataset/
 /Recsys/ml-100k/

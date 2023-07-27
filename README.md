@@ -16,7 +16,7 @@
 | 2008 | [SoRec: Social Recommendation Using Probabilistic Matrix Factorization](https://dl.acm.org/doi/10.1145/1458082.1458205)| SoRec | [Implementation](./Recsys/SoRec/) | |
 | 2011 | [Recommender Systems with Social Regularization](https://dennyzhou.github.io/papers/RSR.pdf)| SoReg |
 | 2017 | [metapath2vec : Scalable Representation Learning for Heterogeneous Networks](https://dl.acm.org/doi/10.1145/3097983.3098036)| Metapath2Vec |
-| 2018 | [Deep Graph Infomax](https://arxiv.org/abs/1809.10341)| DGI |
+| 2018 | [Deep Graph Infomax](https://arxiv.org/abs/1809.10341)| DGI | [Implementation](./Graph/DGI/) | [Review](https://velog.io/@sangwu99/Deep-Graph-Infomax-ICLR-2019) |
 | 2017 | [Inductive Representation Learning on Large Graphs](https://papers.nips.cc/paper/2017/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf)| GraphSAGE |
 | 2013 | [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)| VAE |
 | 2016 | [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308)| VGAE |
