@@ -14,15 +14,15 @@ python main.py --dataset_name Cora
 ```
 
 ## Result
-![Cora Result](../img/DGIcoraloss.png)
-![Citeseer Result](../img/DGIciteseerloss.png)
-![Pubmed Result](../img/DGIpubmedloss.png)
+![Cora Result](../../img/DGIcoraloss.png)
+![Citeseer Result](../../img/DGIciteseerloss.png)
+![Pubmed Result](../../img/DGIpubmedloss.png)
 
 ---
 
-![Cora Tsne](../img/DGIcoratsne.png)
-![Citeseer Tsne](../img/DGIciteseertsne.png)
-![Pubmed Tsne](../img/DGIpubmedtsne.png)
+![Cora Tsne](../../img/DGIcoratsne.png)
+![Citeseer Tsne](../../img/DGIciteseertsne.png)
+![Pubmed Tsne](../../img/DGIpubmedtsne.png)
 
 ---
 
