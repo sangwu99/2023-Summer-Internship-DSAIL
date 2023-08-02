@@ -22,5 +22,5 @@
 | 2016 | [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308)| VGAE |
 | 2016 | [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf)| Youtube | | [Review](https://velog.io/@sangwu99/Deep-Neural-Networks-for-YouTube-Recommendations-ACM-2016) |
 | 2015 | [AutoRec: Autoencoders Meet Collaborative Filtering](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)| Autorec | | [Review](https://velog.io/@sangwu99/AutoRec-Autoencoders-Meet-Collaborative-Filtering-WWW-2015) |
-| 2015 | [Convolutional Matrix Factorization for Document Context-Aware Recommendation](https://dl.acm.org/doi/10.1145/2959100.2959165)| ConvMF |
+| 2015 | [Convolutional Matrix Factorization for Document Context-Aware Recommendation](https://dl.acm.org/doi/10.1145/2959100.2959165)| ConvMF | | [Review](https://velog.io/@sangwu99/Convolutional-Matrix-Factorization-for-Document-Context-Aware-Recommendation-ACM-2016)|
 | 2017 | [Augmentation-Free Self-Supervised Learning on Graphs](https://arxiv.org/abs/2112.02472)| AFGRL |
