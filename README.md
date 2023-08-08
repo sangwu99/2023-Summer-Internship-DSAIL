@@ -24,3 +24,5 @@
 | 2015 | [AutoRec: Autoencoders Meet Collaborative Filtering](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)| Autorec | | [Review](https://velog.io/@sangwu99/AutoRec-Autoencoders-Meet-Collaborative-Filtering-WWW-2015) |
 | 2015 | [Convolutional Matrix Factorization for Document Context-Aware Recommendation](https://dl.acm.org/doi/10.1145/2959100.2959165)| ConvMF | | [Review](https://velog.io/@sangwu99/Convolutional-Matrix-Factorization-for-Document-Context-Aware-Recommendation-ACM-2016)|
 | 2017 | [Augmentation-Free Self-Supervised Learning on Graphs](https://arxiv.org/abs/2112.02472)| AFGRL |
+| 2017 | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | Transformer | [Implementation](./NLP/Transformer/) | [Review](https://velog.io/@sangwu99/Attention-Is-All-You-Need-NIPS-2017) |
+| 2018 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | BERT | | [Review](https://velog.io/@sangwu99/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding-NAACL-2019) | 
