@@ -18,7 +18,7 @@
 | 2017 | [metapath2vec : Scalable Representation Learning for Heterogeneous Networks](https://dl.acm.org/doi/10.1145/3097983.3098036)| Metapath2Vec |
 | 2018 | [Deep Graph Infomax](https://arxiv.org/abs/1809.10341)| DGI | [Implementation](./Graph/DGI/) | [Review](https://velog.io/@sangwu99/Deep-Graph-Infomax-ICLR-2019) |
 | 2017 | [Inductive Representation Learning on Large Graphs](https://papers.nips.cc/paper/2017/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf)| GraphSAGE |
-| 2013 | [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)| VAE |
+| 2013 | [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)| VAE | [Implementation](./Recsys/VAE/) | |
 | 2016 | [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308)| VGAE |
 | 2016 | [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf)| Youtube | | [Review](https://velog.io/@sangwu99/Deep-Neural-Networks-for-YouTube-Recommendations-ACM-2016) |
 | 2015 | [AutoRec: Autoencoders Meet Collaborative Filtering](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)| Autorec | | [Review](https://velog.io/@sangwu99/AutoRec-Autoencoders-Meet-Collaborative-Filtering-WWW-2015) |
