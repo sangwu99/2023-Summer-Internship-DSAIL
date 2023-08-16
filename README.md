@@ -1,5 +1,13 @@
 # 2023-Summer-Internship-DSAIL
+<img src="./img/title.png" alt="drawing" width="80%"/>
 
+## Data Science and Artificial Intelligence Laboratory (DSAIL)
+- [Official Laboratory Homepage (Website)](http://dsail.kaist.ac.kr/)
+- [Introduction to the laboratory (YouTube)](https://www.youtube.com/watch?v=3Nz19Kln-yE)
+- [What we are interested in (Research PDF)](https://dsail.kaist.ac.kr/files/research.pdf)
+
+## Tentative Schedule
+### Basic recommender system and Graph Neural Network
 | Year | Paper | Short | Implementation | Review |
 | :---: | --- | --- | --- | --- |
 | 2016 | [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)| GCN | | [Review](https://velog.io/@sangwu99/Semi-Supervised-Classification-with-Graph-Convolutional-Networks-ICLR-2017) |
@@ -26,3 +34,7 @@
 | 2017 | [Augmentation-Free Self-Supervised Learning on Graphs](https://arxiv.org/abs/2112.02472)| AFGRL |
 | 2017 | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | Transformer | [Implementation](./NLP/Transformer/) | [Review](https://velog.io/@sangwu99/Attention-Is-All-You-Need-NIPS-2017) |
 | 2018 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | BERT | | [Review](https://velog.io/@sangwu99/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding-NAACL-2019) | 
+
+### Participate to projects
+- MATH AI (Multi-modal Reasoning)
+- Adopting Large Language Models (LLMs) in Learning on Graphs
